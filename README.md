@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![results-summary-screenshot](https://github.com/aomsk/results-summary-component/blob/main/assets/results-summary-screenshot.png?raw=true)
 
 ### Links
 
